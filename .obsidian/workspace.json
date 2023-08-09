@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a4a19ebe371267cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "56b058d90238ad5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84425520b42af700",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ebe9adcc6818b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自动化测试/UnitTest/文章.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e620477ba83964a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "服务端/云原生/Makefile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cbca8a0e3685d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cf434f92db7e87c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a831880e6712d0b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "159c22d724c7eaa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aaade11f20b95790",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26b497ebb0fe2e20",
+    "type": "split",
+    "children": [
+      {
+        "id": "a330862fe648a1aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af31c1fafaae89b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "服务端/云原生/Makefile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4c2b891173f9741",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "服务端/云原生/Makefile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8a60c95fe955a87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f034121def4b1e29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "服务端/云原生/Makefile.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9e620477ba83964a",
+  "lastOpenFiles": [
+    "服务端/云原生/编排调度/容器/Container.md",
+    "服务端/云原生/Makefile.md",
+    "服务端/编程语言/C_C++/常用工具、问题诊断和性能优化/性能分析工具与方法.md",
+    "服务端/安全/Web安全/研发安全流程.md",
+    "服务端/安全/Web安全/研发安全工具.md",
+    "服务端/安全/Web安全/漏洞知识库.md",
+    "服务端/安全/网络隔离/BOE到生产网.md",
+    "服务端/安全/网络隔离/跳板机.md",
+    "服务端/安全/网络隔离/生产网到外网.md",
+    "服务端/安全/网络隔离/办公网到生产网.md",
+    "前端/工程能力/编译构建/工具/vite/基本原理.md",
+    "服务端/计算机基础/计算机网络/传输层/TCP/确保可靠通信的机制/重传控制.md",
+    "服务端/计算机基础/计算机网络/传输层/TCP/确保可靠通信的机制/滑动窗口.md",
+    "服务端/计算机基础/计算机网络/传输层/TCP/确保可靠通信的机制/流量控制.md",
+    "服务端/计算机基础/计算机网络/传输层/TCP/确保可靠通信的机制/拥塞控制.md",
+    "服务端/计算机基础/计算机网络/网络层/路由选择协议/OSPF.md",
+    "服务端/计算机基础/计算机网络/网络层/路由选择协议/RIP.md",
+    "服务端/计算机基础/计算机网络/网络层/IP 协议/NAT.md",
+    "服务端/计算机基础/计算机网络/网络层/路由选择协议/BGP.md",
+    "服务端/计算机基础/计算机网络/网络层/IP 协议/IP 数据包.md",
+    "服务端/计算机基础/计算机网络/传输层/UDP/数据包格式.md",
+    "服务端/计算机基础/计算机网络/传输层/TCP/连接的建立与断开.md",
+    "服务端/计算机基础/计算机网络/传输层/TCP/确保可靠通信的机制",
+    "服务端/计算机基础/计算机网络/传输层/TCP/数据包格式.md",
+    "服务端/计算机基础/编译原理/词法分析/有穷自动机/NFA.md",
+    "服务端/计算机基础/编译原理/词法分析/有穷自动机/DFA.md",
+    "服务端/计算机基础/操作系统/进程管理/通信/消息传递.md",
+    "服务端/计算机基础/计算机网络/网络层/路由选择协议",
+    "服务端/计算机基础/计算机网络/网络层/IP 协议",
+    "服务端/计算机基础/计算机网络/物理层/相关设备",
+    "服务端/计算机基础/计算机网络/物理层/功能：通过物理手段将计算机连接起来",
+    "服务端/计算机基础/计算机网络/数据链路层/以太网协议",
+    "服务端/计算机基础/计算机网络/传输层/UDP",
+    "服务端/计算机基础/计算机网络/传输层/TCP",
+    "服务端/计算机基础/编译原理/词法分析/有穷自动机",
+    "服务端/计算机基础/操作系统/进程管理/通信"
+  ]
+}
